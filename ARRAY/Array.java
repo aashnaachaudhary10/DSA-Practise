@@ -370,13 +370,13 @@
 
                                                     //10.)FIND SECOND LARGEST ELEMENT IN AN ARRAY
 
-import java.util.Scanner;
-public class array{
-  public static void main(String args[]){
-    Scanner sc= new Scanner(System.in);
+// import java.util.Scanner;
+// public class array{
+//   public static void main(String args[]){
+//     Scanner sc= new Scanner(System.in);
 
     
-  }
-}
+//   }
+// }
 
                                   
